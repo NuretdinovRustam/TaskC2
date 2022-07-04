@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nuretdinov_rf\\source\\repos\\HomeWork\\TaskC2\\Nuretdinov_RF_Homework2\\Task1Symbol\\Task1Symbol.csproj",
+      "projectUniqueName": "C:\\Users\\nuretdinov_rf\\source\\repos\\HomeWork\\TaskC2\\Task1Symbol\\Task1Symbol.csproj",
       "projectName": "Task1Symbol",
-      "projectPath": "C:\\Users\\nuretdinov_rf\\source\\repos\\HomeWork\\TaskC2\\Nuretdinov_RF_Homework2\\Task1Symbol\\Task1Symbol.csproj",
+      "projectPath": "C:\\Users\\nuretdinov_rf\\source\\repos\\HomeWork\\TaskC2\\Task1Symbol\\Task1Symbol.csproj",
       "packagesPath": "C:\\Users\\nuretdinov_rf\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nuretdinov_rf\\source\\repos\\HomeWork\\TaskC2\\Nuretdinov_RF_Homework2\\Task1Symbol\\obj\\",
+      "outputPath": "C:\\Users\\nuretdinov_rf\\source\\repos\\HomeWork\\TaskC2\\Task1Symbol\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
