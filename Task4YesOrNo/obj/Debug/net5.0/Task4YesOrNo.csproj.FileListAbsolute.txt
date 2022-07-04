@@ -1,0 +1,16 @@
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\bin\Debug\net5.0\Task4YesOrNo.exe
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\bin\Debug\net5.0\Task4YesOrNo.deps.json
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\bin\Debug\net5.0\Task4YesOrNo.runtimeconfig.json
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\bin\Debug\net5.0\Task4YesOrNo.runtimeconfig.dev.json
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\bin\Debug\net5.0\Task4YesOrNo.dll
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\bin\Debug\net5.0\ref\Task4YesOrNo.dll
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\bin\Debug\net5.0\Task4YesOrNo.pdb
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\obj\Debug\net5.0\Task4YesOrNo.csprojAssemblyReference.cache
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\obj\Debug\net5.0\Task4YesOrNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\obj\Debug\net5.0\Task4YesOrNo.AssemblyInfoInputs.cache
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\obj\Debug\net5.0\Task4YesOrNo.AssemblyInfo.cs
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\obj\Debug\net5.0\Task4YesOrNo.csproj.CoreCompileInputs.cache
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\obj\Debug\net5.0\Task4YesOrNo.dll
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\obj\Debug\net5.0\ref\Task4YesOrNo.dll
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\obj\Debug\net5.0\Task4YesOrNo.pdb
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task4YesOrNo\obj\Debug\net5.0\Task4YesOrNo.genruntimeconfig.cache
