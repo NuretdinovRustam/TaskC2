@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task1Symbol", "Task1Symbol\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2multiple7", "Task2multiple7\Task2multiple7.csproj", "{ECF18469-7851-4B53-9A5C-B6D6B2FA44AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3SecondMax", "Task3SecondMax\Task3SecondMax.csproj", "{F661B9BD-323B-40F8-AF14-0894E82A5C8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3SecondMax", "Task3SecondMax\Task3SecondMax.csproj", "{F661B9BD-323B-40F8-AF14-0894E82A5C8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4YesOrNo", "Task4YesOrNo\Task4YesOrNo.csproj", "{A6201F3A-30B0-4AA0-B993-DA0CD623EF2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task4YesOrNo", "Task4YesOrNo\Task4YesOrNo.csproj", "{A6201F3A-30B0-4AA0-B993-DA0CD623EF2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bubble algorithm", "bubble algorithm\bubble algorithm.csproj", "{A872EB0A-7B77-4F15-87FF-15C56CD62148}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{A6201F3A-30B0-4AA0-B993-DA0CD623EF2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6201F3A-30B0-4AA0-B993-DA0CD623EF2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6201F3A-30B0-4AA0-B993-DA0CD623EF2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A872EB0A-7B77-4F15-87FF-15C56CD62148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A872EB0A-7B77-4F15-87FF-15C56CD62148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A872EB0A-7B77-4F15-87FF-15C56CD62148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A872EB0A-7B77-4F15-87FF-15C56CD62148}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
