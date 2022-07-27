@@ -1,0 +1,16 @@
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\bin\Debug\net5.0\bubble algorithm.exe
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\bin\Debug\net5.0\bubble algorithm.deps.json
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\bin\Debug\net5.0\bubble algorithm.runtimeconfig.json
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\bin\Debug\net5.0\bubble algorithm.runtimeconfig.dev.json
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\bin\Debug\net5.0\bubble algorithm.dll
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\bin\Debug\net5.0\ref\bubble algorithm.dll
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\bin\Debug\net5.0\bubble algorithm.pdb
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\obj\Debug\net5.0\bubble algorithm.csprojAssemblyReference.cache
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\obj\Debug\net5.0\bubble algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\obj\Debug\net5.0\bubble algorithm.AssemblyInfoInputs.cache
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\obj\Debug\net5.0\bubble algorithm.AssemblyInfo.cs
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\obj\Debug\net5.0\bubble algorithm.csproj.CoreCompileInputs.cache
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\obj\Debug\net5.0\bubble algorithm.dll
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\obj\Debug\net5.0\ref\bubble algorithm.dll
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\obj\Debug\net5.0\bubble algorithm.pdb
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\bubble algorithm\obj\Debug\net5.0\bubble algorithm.genruntimeconfig.cache
