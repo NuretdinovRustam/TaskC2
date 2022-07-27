@@ -25,7 +25,7 @@ namespace Task2multiple7
                 else if (Math.Abs(x) >= 7)
                 {
                     //var max = 1;
-                    for (int i = 1; i <= Math.Abs(x); i++)
+                    for (int i = a; i <= b; i++)
                     {
                         if (i % 7 == 0)
                         {
