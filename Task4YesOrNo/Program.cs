@@ -8,7 +8,7 @@ namespace Task4YesOrNo
         {
             Console.WriteLine("Введите натуральное число");
             string num = Console.ReadLine();
-            if (UInt32.TryParse(num, out var parsedNum))
+            if (int.TryParse(num, out var parsedNum))
             {
                 if (parsedNum == 0)
                 {

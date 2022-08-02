@@ -10,12 +10,11 @@ namespace Task3SecondMax
         static void Main(string[] args)
         {
             Console.WriteLine("Введите числа не превышаюшее по значению 1000, минимум ввести 2 числа, если число закончится на 0, то ввод чисел прекратится");
-            bool cycle = true;
             int max1 = 0;
             int max2 = 0;
             try
             {
-                while (cycle)
+                while (true)
                 {
                     int num = int.Parse(Console.ReadLine());
                     if (num == 0)

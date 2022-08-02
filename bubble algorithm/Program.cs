@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace bubble_algorithm
 {
@@ -9,35 +11,26 @@ namespace bubble_algorithm
             //конструкция try если введут кривые числа
             try
             {
-                Console.WriteLine("Сколько чисел планируется вводить?");
-                //получаем ответ - это будет длинной массива
-                int count = int.Parse(Console.ReadLine());
-                Console.WriteLine("Введите числа для сортировки:");
-                int[] mas = new int[count];
-                //заполняем массив int значениями
-                for (int i = 0; i < count; i++)
-                {
-                    mas[i] = int.Parse(Console.ReadLine());
-                }
-                //сортировка массива, примеры есть на метаните в разделе №2 задача с массивами
+                Console.WriteLine("Введите числа через пробел");
                 int buffer;
-                for (int i = 0; i < count; i++)
+                string numbers = Console.ReadLine();
+                string[] masString = numbers.Split(' ');
+                int[] masInt = new int[masString.Length];
+                masInt = Array.ConvertAll(masString, s => int.Parse(s));
+
+                for (int i = 0; i < masInt.Length - 1; i++)
                 {
-                    for (int j = i + 1; j < count; j++)
+                    for (int j = i + 1; j < masInt.Length; j++)
                     {
-                        if (mas[i] > mas[j])
+                        if (masInt[i] > masInt[j])
                         {
-                            buffer = mas[i];
-                            mas[i] = mas[j];
-                            mas[j] = buffer;
+                            buffer = masInt[i];
+                            masInt[i] = masInt[j];
+                            masInt[j] = buffer;
                         }
                     }
                 }
-                Console.WriteLine("Отсортированные числа");
-                foreach (int b in mas)
-                {
-                    Console.WriteLine(b);
-                }
+                Console.WriteLine(string.Join(" ", masInt));
             }
             catch (Exception e)
             {
