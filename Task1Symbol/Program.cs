@@ -8,20 +8,26 @@ namespace Task1Symbol
         {
             Console.WriteLine("Введите символы");
             string num = Console.ReadLine();
-            for (int i = 0; i < num.Length; i++)
+            if (num.Contains("x") | num.Contains("w"))
             {
-                if (num[i].ToString() == "x")
+                for (int i = 0; i < num.Length; i++)
                 {
-                    Console.WriteLine("x");
-                    break;
-                }
-                else if (num[i].ToString() == "w")
-                {
-                    Console.WriteLine("w");
-                    break;
+                    if (num[i].ToString() == "x")
+                    {
+                        Console.WriteLine("x");
+                        break;
+                    }
+                    else if (num[i].ToString() == "w")
+                    {
+                        Console.WriteLine("w");
+                        break;
+                    }
                 }
             }
-
+            else
+            {
+                Console.WriteLine("-1");
+            }
 
         }
     }
