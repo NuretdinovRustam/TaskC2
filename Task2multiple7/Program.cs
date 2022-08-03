@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Task2multiple7
 {
@@ -12,32 +13,30 @@ namespace Task2multiple7
                 int a = Int32.Parse(Console.ReadLine());
                 Console.WriteLine("Введите целое число В, не превышающее 2 x 10^4: ");
                 int b = Int32.Parse(Console.ReadLine());
-                int x = b - a;
-                int max = 25;
+                var NewList = new List<int>();
                 if (!(a <= b) | (Math.Abs(a) > 2 * (Math.Pow(10, 4))) | (Math.Abs(b) > 2 * (Math.Pow(10, 4))))
                 {
                     Console.WriteLine("Значение не удовлетворяет условию");
                 }
-                else if (Math.Abs(x) < 7)
+                else if (b >= 7)
                 {
-                    Console.WriteLine("No");
-                }
-                else if (Math.Abs(x) >= 7)
-                {
-                    //var max = 1;
                     for (int i = a; i <= b; i++)
                     {
                         if (i % 7 == 0)
                         {
-                            max = i;
+                            NewList.Add(i);
                         }
                     }
-                    Console.WriteLine(max);
+                    Console.WriteLine(NewList[NewList.Count - 1]);
+                }
+                else
+                {
+                    Console.WriteLine("No");
                 }
             }
-            catch
+            catch (Exception ex)
             {
-                Console.WriteLine("Ввели некорректное число");
+                Console.WriteLine($"Ввели некорректное число. Ошибка: {ex}");
             }
         }
     }
