@@ -32,7 +32,18 @@ namespace Task3SecondMax
                     }
 
                 }
-                Console.WriteLine(max2);
+                if (max1 == max2)
+                {
+                    Console.WriteLine("Вы ввели два одинаковых числа");
+                }
+                else if (max2 == 0)
+                {
+                    Console.WriteLine("Необходимо ввести 2 натуральных числа, 0 мы в расчет не берем");
+                }
+                else
+                {
+                    Console.WriteLine(max2);
+                }
             }
             catch (Exception ex)
             {

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading;
 
 namespace bubble_algorithm
 {
@@ -26,13 +27,17 @@ namespace bubble_algorithm
                     {
                         if (masInt[i] > masInt[j])
                         {
+
                             buffer = masInt[i];
                             masInt[i] = masInt[j];
                             masInt[j] = buffer;
+                            Console.WriteLine(string.Join(" ", masInt));
+                            Thread.Sleep(300);
                         }
+
                     }
                 }
-                Console.WriteLine(string.Join(" ", masInt));
+                //Console.WriteLine(string.Join(" ", masInt));
             }
             catch (Exception e)
             {
