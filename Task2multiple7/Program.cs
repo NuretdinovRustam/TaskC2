@@ -18,7 +18,7 @@ namespace Task2multiple7
                 {
                     Console.WriteLine("Значение не удовлетворяет условию");
                 }
-                else if (b >= 7)
+                else if (a <= b)
                 {
                     for (int i = a; i <= b; i++)
                     {
@@ -27,17 +27,22 @@ namespace Task2multiple7
                             NewList.Add(i);
                         }
                     }
-                    Console.WriteLine(NewList[NewList.Count - 1]);
-                }
-                else
-                {
-                    Console.WriteLine("No");
+                    //если в списке что-то есть то покажем
+                    if (!(NewList.Count == 0))
+                    {
+                        Console.WriteLine(NewList[NewList.Count - 1]);
+                        //NewList.ForEach(Console.WriteLine);
+                    }
+                    //если список пустой (иначе) то выводим "No"
+                    else
+                        Console.WriteLine("No");
                 }
             }
             catch (Exception ex)
             {
                 Console.WriteLine($"Ввели некорректное число. Ошибка: {ex}");
             }
+
         }
     }
 }
