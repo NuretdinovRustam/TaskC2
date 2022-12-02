@@ -8,12 +8,9 @@ namespace Task3SecondMax
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Введите числа не превышаюшее по значению 1000, минимум ввести 2 числа, если число закончится на 0, то ввод чисел прекратится");
+        {            
             int max1 = 0;
-            int max2 = 0;
-            try
-            {
+            int max2 = 0;            
                 while (true)
                 {
                     int num = int.Parse(Console.ReadLine());
@@ -32,26 +29,7 @@ namespace Task3SecondMax
                     }
 
                 }
-                if (max1 == max2)
-                {
-                    Console.WriteLine("Вы ввели два одинаковых числа");
-                }
-                else if (max2 == 0)
-                {
-                    Console.WriteLine("Необходимо ввести 2 натуральных числа, 0 мы в расчет не берем");
-                }
-                else
-                {
-                    Console.WriteLine(max2);
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-
-
-
+            Console.WriteLine(max2);
         }
     }
 }
