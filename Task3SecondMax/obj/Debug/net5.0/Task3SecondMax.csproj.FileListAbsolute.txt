@@ -3,9 +3,7 @@ C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\bin\Debug\net
 C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\bin\Debug\net5.0\Task3SecondMax.runtimeconfig.json
 C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\bin\Debug\net5.0\Task3SecondMax.runtimeconfig.dev.json
 C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\bin\Debug\net5.0\Task3SecondMax.dll
-C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\bin\Debug\net5.0\ref\Task3SecondMax.dll
 C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\bin\Debug\net5.0\Task3SecondMax.pdb
-C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\obj\Debug\net5.0\Task3SecondMax.csprojAssemblyReference.cache
 C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\obj\Debug\net5.0\Task3SecondMax.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\obj\Debug\net5.0\Task3SecondMax.AssemblyInfoInputs.cache
 C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\obj\Debug\net5.0\Task3SecondMax.AssemblyInfo.cs
@@ -14,3 +12,5 @@ C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\obj\Debug\net
 C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\obj\Debug\net5.0\ref\Task3SecondMax.dll
 C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\obj\Debug\net5.0\Task3SecondMax.pdb
 C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\obj\Debug\net5.0\Task3SecondMax.genruntimeconfig.cache
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\obj\Debug\net5.0\Task3SecondMax.csproj.AssemblyReference.cache
+C:\Users\nuretdinov_rf\source\repos\HomeWork\TaskC2\Task3SecondMax\obj\Debug\net5.0\refint\Task3SecondMax.dll
