@@ -12,25 +12,29 @@ namespace Task2multiple7
             int a = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Введите целое число В, не превышающее 2 x 10^4: ");
             int b = Int32.Parse(Console.ReadLine());
-            List<int> NewList = new List<int>();
-            if (a <= b)
+            if ((Math.Abs(a) < Math.Pow(2, 4)) & (Math.Abs(b) < Math.Pow(2, 4)))
             {
-                for (int i = a; i <= b; i++)
+                List<int> NewList = new List<int>();
+                if (a <= b)
                 {
-                    if (i % 7 == 0)
-                        NewList.Add(i);
+                    for (int i = a; i <= b; i++)
+                    {
+                        if (i % 7 == 0)
+                            NewList.Add(i);
+                    }
+                    try
+                    {
+                        if (NewList.Last<int>() % 7 == 0 | NewList.Last<int>() == 0)
+                            Console.WriteLine(NewList.Last<int>().ToString());
+                    }
+                    catch
+                    { Console.WriteLine("No"); }
                 }
-                try
-                {
-                    if (NewList.Last<int>() % 7 == 0 | NewList.Last<int>() == 0)
-                        Console.WriteLine(NewList.Last<int>().ToString());
-                }
-                catch 
-                { Console.WriteLine("No"); }
+                else
+                    Console.WriteLine("No");
             }
             else
                 Console.WriteLine("No");
-
 
 
         }
